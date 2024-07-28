@@ -1,0 +1,46 @@
+body{
+    background-color: #3D3F4A;
+}
+.card{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #7D8491;
+}
+
+.card-title{
+    text-align: center;
+    zoom: 2;
+}
+
+.card-text{
+    zoom: 2;
+    display: block;
+}
+
+.buttons{
+    display: block;
+    position: absolute;
+    bottom: 0%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.btn{
+border-width: 2px;
+}
+
+.home-a{
+    color: #d8deea;
+    text-decoration: none;
+}
+
+.scrollspy-example{
+    background-color: #7D8491;
+}
+
+p{
+    zoom: 1.5;
+}
+
